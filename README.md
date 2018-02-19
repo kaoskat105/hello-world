@@ -2,4 +2,4 @@
 Just another repository
 Hi Humans!
 
-Just trying to leaarn something new today.
+Just trying to learn something new today.
